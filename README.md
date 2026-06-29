@@ -4,7 +4,7 @@ A two-tower retrieval model that predicts which subscribers are most likely to o
 
 ## Overview
 
-The system combines collaborative filtering (ALS) with content-based signals (sentence transformer embeddings) to rank subscribers for each campaign. It is designed to handle cold-start campaigns — new campaigns the model has never seen during training.
+The system combines collaborative filtering (ALS) with content-based signals to rank subscribers for each campaign. It is designed to handle cold-start campaigns.
 
 ## Architecture
 
